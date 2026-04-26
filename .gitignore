@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Node / frontend
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Assets (source images may be kept; ignore large exports if present)
+*.psd
+*.ai
+
+# Yarn
+.yarn/
+.yarnrc
+
+# Others
+.env
